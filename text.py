@@ -6,9 +6,9 @@ from concurrent.futures import ThreadPoolExecutor
 import time
 import requests
 
-user_id = "5122281931"
+user_id = "7573435876"
 
-bot = telebot.TeleBot("6997040547:AAF774-uMFBkHV4Yyec62udsel1QKhW8KBI")
+bot = telebot.TeleBot("7080225648:AAGPfKDVDHvMWRNcr3pU0pIiDireSPwZjF0")
 
 file_to_replace = {}
 
